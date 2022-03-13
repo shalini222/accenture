@@ -24,5 +24,20 @@ int main()
     }
     
     cout<<rem;
+ 
+//  easier :)
+//   string s;
+//     cin>>s;
+    
+//     int n = stoi(s);
+//     int res = n%11;
+    
+//     cout<<res;
+ 
+ 
+ 
+ 
+ 
+ 
     return 0;
 }
